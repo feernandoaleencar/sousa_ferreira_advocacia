@@ -73,6 +73,9 @@ p, h2, a {
 	font-family: "arial", Times, serif;
 }
 
+#menu-principal a {
+	font-size: 18px;
+}
 #rodape {
 	/*border: 1px solid yellow;*/
 	font-family: "arial", Times, serif;
